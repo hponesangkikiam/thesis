@@ -1,2 +1,2 @@
 # thesis
-basis for thesis project
+first repository on GitHub
